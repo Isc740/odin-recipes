@@ -1,2 +1,2 @@
 # odin-recipes
-This is a test from the Odin Project curriculum.
+a simple html site made as an assignment for "The Odin Project"
